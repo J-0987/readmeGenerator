@@ -59,7 +59,9 @@ Follow the prompts to provide information about your project. Once you've comple
 
 ## Visuals
 
-Here is a short video that runs you through the entire process from installation to completion:
+Here is a short video that runs you through the entire process from installation to completion: [click here](https://drive.google.com/file/d/1OIEY6tlkJ8Al5GZfdUwZM3roD7kB2aKZ/view)
+
+
 
 
 Screenshot of the application with prompts and user answers:
@@ -70,7 +72,9 @@ Screenshot of the application with prompts and user answers:
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
-My git hub is [Jasmine](https://www.markdownguide.org/basic-syntax/)
+
+Alternatively, you can reach me by email at jasminelassonde@gmail.com
+
 
 ## License
 

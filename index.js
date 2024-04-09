@@ -26,7 +26,7 @@ ${userInput.description}
 
 ## Table of Contents
 - [Installation](#installation)
-- Visuals(#visuals)
+- [Visuals](#visuals)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)

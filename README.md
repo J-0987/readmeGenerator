@@ -34,7 +34,7 @@ To use this README generator, you need to have Node.js installed on your system.
 Clone this repository to your local machine:
 
 
-    git clone https://github.com/example/readme-generator.git
+    git clone git@github.com:J-0987/readmeGenerator.git
 
 Navigate to the project directory:
 
